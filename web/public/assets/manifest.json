@@ -1,0 +1,13 @@
+{
+  "name": "个人网盘",
+  "theme_color": "#f38020",
+  "display": "standalone",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31dgvh80fgk605onacdq7on3c3769lp8",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ]
+}
